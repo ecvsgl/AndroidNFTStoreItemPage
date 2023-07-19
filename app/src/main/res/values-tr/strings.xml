@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EfeCavusogluHomework3</string>
+    <string name="nftBaslik">Uçan Astronot</string>
+    <string name="apolloStat">Apollo</string>
+    <string name="moonwalkerStat">Ayyürüyen</string>
+    <string name="floatyStat">Uçarı</string>
+    <string name="glasscapStat">Cambaş</string>
+    <string name="isTradeable">Takaslanabilir</string>
+    <string name="nftType">Efsanevi NFT</string>
+    <string name="nftExplanation">Astronot uzayda uçuyor, korku ve heyecanla..</string>
+    <string name="pricetag">USDT 99.99</string>
+    <string name="button">Satın al</string>
+</resources>

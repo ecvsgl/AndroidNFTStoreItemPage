@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EfeCavusogluHomework3</string>
+    <string name="nftBaslik">Floating Spaceman</string>
+    <string name="apolloStat">Apollo</string>
+    <string name="moonwalkerStat">Moonwalker</string>
+    <string name="floatyStat">Floaty</string>
+    <string name="glasscapStat">Glasscap</string>
+    <string name="isTradeable">Tradeable</string>
+    <string name="nftType">Legendary NFT</string>
+    <string name="nftExplanation">Spaceman lost in space, with fear and excitement..</string>
+    <string name="pricetag">USDT 99.99</string>
+    <string name="button">Purchase</string>
+</resources>
